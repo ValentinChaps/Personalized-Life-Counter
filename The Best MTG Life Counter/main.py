@@ -77,11 +77,3 @@ class My1App(App):
 
 if __name__== "__main__":
     My1App().run()
-    
-"""    player1 = ObjectProperty(None)
-player2 = ObjectProperty(None)
-player3 = ObjectProperty(None)
-player4 = ObjectProperty(None)
-
-def btn(self):
-    print("Name:" , self.name.text , "email: ", self.email.text)"""
